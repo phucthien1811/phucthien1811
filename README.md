@@ -2,7 +2,7 @@
 
 # 👋 Chào bạn! Tôi là Phúc Thiên 👋
 
-## Sinh viên @ [Đại học Sư phạm TP.HCM (HCMUE)](https://hcmue.edu.vn/) 🎓 | Software Engineer 💻 | Web Developer 🌐
+## HCMUER🎓 | Software Engineer 💻 | Web Developer 🌐
 
 ---
 
