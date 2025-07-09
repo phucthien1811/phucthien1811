@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Chào bạn! Tôi là Phúc Thiện 👋
+# 👋 Chào bạn! Tôi là Phúc Thiên 👋
 
 ## Sinh viên @ [Đại học Sư phạm TP.HCM (HCMUE)](https://hcmue.edu.vn/) 🎓 | Software Engineer 💻 | Web Developer 🌐
 
@@ -43,10 +43,9 @@ Ngoài việc học, tôi còn tích cực tham gia các dự án cá nhân và 
 
 ### Kết nối với tôi 📧
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_profile/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your_facebook_profile/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phucthien1811@gmail.com)
-[![My Portfolio](https://img.shields.io/badge/My%20Website-phucthien1811.github.io-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://phucthien1811.github.io/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thebestluckyy/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thi%C3%AAn-nguy%E1%BB%85n-1abb79373/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/uhsksn)
 
 ---
 
