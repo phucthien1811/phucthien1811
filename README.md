@@ -4,13 +4,7 @@
 
 ## HCMUER🎓 | Software Engineer 💻 | Web Developer 🌐
 
----
-
-### Về tôi một chút ✨
-
-Tôi là một sinh viên trẻ đầy nhiệt huyết tại **Đại học Sư phạm TP.HCM**, đam mê biến ý tưởng thành hiện thực thông qua code. Với vai trò là một **Software Engineer** và **Web Developer**, tôi luôn tìm tòi và học hỏi các công nghệ mới để tạo ra những giải pháp phần mềm sáng tạo và trải nghiệm web mượt mà.
-
-Ngoài việc học, tôi còn tích cực tham gia các dự án cá nhân và cộng đồng, không ngừng nâng cao kỹ năng và mở rộng kiến thức. Tôi tin rằng công nghệ là công cụ mạnh mẽ để thay đổi thế giới, và tôi rất hào hứng được đóng góp vào hành trình đó!
+✨
 
 ---
 
