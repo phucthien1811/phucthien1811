@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Phúc Thiên**  
-🎓 HCMUER | 💻 Software Engineer  
+ 💻 Software Engineer  
 
 ✨ Passionate about building impactful software, solving problems, and continuous learning.
 
