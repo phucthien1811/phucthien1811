@@ -29,7 +29,6 @@
 
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucthien1811&theme=tokyonight" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucthien1811&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
